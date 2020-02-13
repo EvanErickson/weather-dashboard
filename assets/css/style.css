@@ -1,0 +1,9 @@
+  
+#cardItem {
+    visibility: hidden;
+    height: fit-content;
+  }
+  
+  #img {
+    margin-right: 1%;
+  }
